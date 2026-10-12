@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/python-gitlab/python-gitlab/commit/51eb17e6e67a25157e04b0abc649221bd8ecc7fe",
       "git:hexsha": "51eb17e6e67a25157e04b0abc649221bd8ecc7fe",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v8.6.0"
     },
     {
