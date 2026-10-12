@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/python-gitlab/python-gitlab/commit/51eb17e6e67a25157e04b0abc649221bd8ecc7fe",
       "git:hexsha": "51eb17e6e67a25157e04b0abc649221bd8ecc7fe",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v8.6.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v8.6.0",
+      "repolex:parsedAt": "2026-10-12T21:46:33.612689+00:00"
     },
     {
       "@id": "https://repolex.ai/r/python-gitlab/python-gitlab/commit/d65b684aa6ef18d779c95e578fb16bf87248c76d",
