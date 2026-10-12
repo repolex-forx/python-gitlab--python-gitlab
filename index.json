@@ -1,0 +1,11 @@
+{
+  "org": "python-gitlab",
+  "repo": "python-gitlab",
+  "versions": [
+    {
+      "commit": "51eb17e6e67a25157e04b0abc649221bd8ecc7fe",
+      "tag": "v8.6.0",
+      "parsed_at": "2026-10-12T21:46:33.613725+00:00"
+    }
+  ]
+}
